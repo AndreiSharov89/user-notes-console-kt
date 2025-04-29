@@ -1,1 +1,2 @@
-# Пустой репозиторий для работы с Kotlin кодом в Android Studio
+# Консольное приложение Заметки
+в рамках 7 спринта курса Yandex Practicum Android Developer
